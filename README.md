@@ -1,9 +1,12 @@
- 👋 Hi, I’m Egor Poretsky.
-I'm on track for learning more about frontend developement.
-Tech Stack
-https://camo.githubusercontent.com/0dbdbda9b41b77beb88c3a54e5da74ae7632c0683b09536f78bcc146258be5fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3035313232413f7374796c653d666c6174266c6f676f3d7265616374
-https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074
-https://camo.githubusercontent.com/441ef92f4ca6ed08f5179c92de1db983e255289755d138acddb23c503f54fc9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3035313232413f7374796c653d666c6174266c6f676f3d6e6f64652e6a73
+ 👋 Hi, I’m Egor.
+ 
+I'm on track for learning more about Frontend Developement.
 
-Let's keep in touch.
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Poretsky)  
+
+
+
+
+
+
+Connect with me by Telegram
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='20'>](https://t.me/Poretsky)   
